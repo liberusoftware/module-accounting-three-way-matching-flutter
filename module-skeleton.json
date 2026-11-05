@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-three-way-matching-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-three-way-matching",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_three_way_matching_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/three-way-matching.md",
+  "presentationPlan": "projects/accounting/flutter/three-way-matching.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
